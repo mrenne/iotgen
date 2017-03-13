@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://iotgeneration.xyz/post/good-to-great/</loc>
+    <lastmod>2017-03-12T22:33:28-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://iotgeneration.xyz/</loc>
+    <lastmod>2017-03-12T22:33:28-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://iotgeneration.xyz/post/</loc>
+    <lastmod>2017-03-12T22:33:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
